@@ -35,9 +35,9 @@ This GitHub is where I document my growth, share hands-on ML projects, and explo
 
 ## 📫 Let's Connect
 
-- ✉️ Email: fadyabirached@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/fadyabirached)
 - 🌐 [Portfolio Website](https://fady-abi-rached.onrender.com)
+- ✉️ Email: fadyabirached@gmail.com
   
 ---
 
