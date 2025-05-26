@@ -29,15 +29,15 @@ This GitHub is where I document my growth, share hands-on ML projects, and explo
 
 - 📁 Individual repositories for each project (with clear README & setup instructions).
 - 🧪 Experimentation with ML models, deployment, and real-world data.
-- 📱 Frontend + backend codebases for apps that use AI in creative ways.
+- 📱 Frontend + Backend codebases for apps that use AI in creative ways.
 
 ---
 
 ## 📫 Let's Connect
 
 - ✉️ Email: fadyabirached@gmail.com
-- 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/fadyabirached)
-- 🌐 Portfolio: [Portfolio Website](https://yourwebsite.link)
+- 🔗 [LinkedIn](https://linkedin.com/in/fadyabirached)
+- 🌐 [Portfolio Website](https://fady-abi-rached.onrender.com)
   
 ---
 
