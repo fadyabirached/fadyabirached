@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Fady Abi Rached
 
-I'm a **Junior Machine Learning Engineer** with hands-on experience in machine learning, deep learning, and full-stack development. I love tackling real-world challenges at the intersection of AI and software engineering — from deploying ML pipelines to building AI-powered apps.
+I'm a **Junior AI & Software Engineer** with hands-on experience in machine learning, deep learning, and full-stack development. I love tackling real-world challenges at the intersection of AI and software engineering — from deploying ML pipelines to building AI-powered apps.
 
 ---
 
