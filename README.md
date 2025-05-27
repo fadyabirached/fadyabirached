@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fady Abi Rached
 
-I'm a **Junior AI & Software Engineer** with practical experience in machine learning, deep learning, and full-stack development. I build intelligent, scalable systems that connect data-driven algorithms with real-world applications — from ML pipelines to AI-powered web and mobile platforms.
+I'm a **Junior AI & Software Engineer** with hands-on experience in machine learning, deep learning, and full-stack development. I design intelligent systems that connect advanced algorithms with real-world applications — from training deep learning models to building AI-powered web and mobile platforms.
 
 ---
 
@@ -25,19 +25,19 @@ I'm a **Junior AI & Software Engineer** with practical experience in machine lea
 
 ## 🚀 What You'll Find Here
 
-This GitHub is a showcase of my engineering journey — where each project reflects hands-on skills, clean code, and problem-solving ability.
+This GitHub is a portfolio of my practical work in AI and software engineering — featuring clean code, real-world use cases, and detailed documentation.
 
-- **End-to-End ML Projects:** Covering everything from data wrangling to deployment-ready models.
-- **AI-Driven Applications:** Web and mobile apps powered by machine learning.
-- **Well-Documented Repos:** Each with clear instructions, structured code, and professional READMEs.
+- **End-to-End ML Projects**: Covering data pipelines, model training, evaluation, and experimentation.
+- **AI-Driven Applications**: Full-stack projects that integrate intelligent features with scalable architecture.
+- **Well-Structured Repositories**: Clear READMEs, reproducible setups, and clean project architecture.
 
 ---
 
-## 📌 Currently Working On
+## 🎓 Currently Focused On
 
-- Improving a **spam image detection model** using deep learning
-- Enhancing my **portfolio site** with new AI-powered features
-- Learning more about **model deployment & MLOps**
+- Pursuing a **Master’s in Artificial Intelligence**
+- Advancing my knowledge of deep learning, computer vision, and NLP
+- Applying academic concepts through hands-on projects and research
 
 ---
 
