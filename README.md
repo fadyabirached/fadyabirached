@@ -1,44 +1,48 @@
-# 👋 Hi, my name is Fady Abi Rached
+# 👋 Hi, I'm Fady Abi Rached
 
-I'm a **Junior AI & Software Engineer** with hands-on experience in machine learning, deep learning, and full-stack development. I love tackling real-world challenges at the intersection of AI and software engineering — from deploying ML pipelines to building AI-powered apps.
+I'm a **Junior AI & Software Engineer** with practical experience in machine learning, deep learning, and full-stack development. I build intelligent, scalable systems that connect data-driven algorithms with real-world applications — from ML pipelines to AI-powered web and mobile platforms.
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Core Tech Stack
 
-### Languages
+### Languages  
 `Python` `JavaScript` `C++` `C` `Java`
 
-### Machine Learning & Data
-`TensorFlow` `Keras` `Scikit-learn` `Pandas` `Seaborn` `Matplotlib`
+### Machine Learning & Data  
+`TensorFlow` `Keras` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
 
-### Full-Stack & Mobile Development
+### Full-Stack & Mobile Development  
 `React` `React Native` `Node.js` `Express.js` `Vite`
 
-### Databases & APIs
+### Databases & APIs  
 `PostgreSQL` `MySQL` `Firebase` `Postman`
 
-### Tools & Platforms
+### Tools & Platforms  
 `Git` `Docker` `Figma`
 
 ---
 
-## 📂 What to Expect Here
+## 🚀 What You'll Find Here
 
-This GitHub is where I document my growth, share hands-on ML projects, and explore the blend between AI and practical software. Here's what you'll find:
+This GitHub is a showcase of my engineering journey — where each project reflects hands-on skills, clean code, and problem-solving ability.
 
-- 📁 Individual repositories for each project (with clear README & setup instructions).
-- 🧪 Experimentation with ML models, deployment, and real-world data.
-- 📱 Frontend + Backend codebases for apps that use AI in creative ways.
+- **End-to-End ML Projects:** Covering everything from data wrangling to deployment-ready models.
+- **AI-Driven Applications:** Web and mobile apps powered by machine learning.
+- **Well-Documented Repos:** Each with clear instructions, structured code, and professional READMEs.
 
 ---
 
-## 📫 Let's Connect
+## 📌 Currently Working On
 
-- 🔗 [LinkedIn](https://linkedin.com/in/fadyabirached)
-- 🌐 [Portfolio Website](https://fady-abi-rached.onrender.com)
-- ✉️ Email: fadyabirached@gmail.com
-  
+- Improving a **spam image detection model** using deep learning
+- Enhancing my **portfolio site** with new AI-powered features
+- Learning more about **model deployment & MLOps**
+
 ---
 
-_“The best way to learn is by building.”_
+## 🤝 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/fadyabirached)
+- [Portfolio Website](https://fady-abi-rached.onrender.com)
+- Email: fadyabirached@gmail.com
