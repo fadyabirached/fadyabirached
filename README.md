@@ -29,7 +29,7 @@ This GitHub is a portfolio of my practical work in AI and software engineering â
 
 - **End-to-End ML Projects**: Covering data pipelines, model training, evaluation, and experimentation.
 - **AI-Driven Applications**: Full-stack projects that integrate intelligent features with scalable architecture.
-- **Well-Structured Repositories**: Clear READMEs, reproducible setups, and clean project architecture.
+- **Well-Structured Repositories**: Clear READMEs, and clean project architecture.
 
 ---
 
