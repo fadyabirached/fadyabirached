@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fady Abi Rached
 
-I'm a **Junior AI & Software Engineer** with hands-on experience in machine learning, deep learning, and full-stack development. I design intelligent systems, from training deep learning models to building AI-powered web and mobile platforms.
+I'm a **Junior AI Engineer** with hands-on experience in machine learning, deep learning, and full-stack development. I design intelligent systems, from training deep learning models to building AI-powered web and mobile platforms.
 
 ---
 
