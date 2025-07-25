@@ -44,5 +44,5 @@ This GitHub is a portfolio of my practical work in AI and software engineering â
 ## ğŸ¤ Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/fadyabirached)
-- [Portfolio Website](https://fady-abi-rached.onrender.com)
+- [Portfolio Website](https://fadyabirached.vercel.app)
 - Email: fadyabirached@gmail.com
