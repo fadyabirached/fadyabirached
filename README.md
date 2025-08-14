@@ -10,7 +10,7 @@ I'm an **AI Engineer** with hands-on experience in machine learning, deep learni
 `Python` `JavaScript` `C++` `C` `Java`
 
 ### Machine Learning & Data  
-`TensorFlow` `Keras` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
+`TensorFlow` `Keras` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` `LangChain`
 
 ### Full-Stack & Mobile Development  
 `React` `React Native` `Node.js` `Express.js` `Vite`
