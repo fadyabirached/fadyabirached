@@ -15,9 +15,7 @@ Currently pursuing my **M.Sc. in Artificial Intelligence at Grenoble INP - Ensim
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -36,10 +34,6 @@ Currently pursuing my **M.Sc. in Artificial Intelligence at Grenoble INP - Ensim
 <tr>
 <td><b>LLM & Retrieval (RAG)</b></td>
 <td>
-<img src="https://img.shields.io/badge/Hybrid%20Retrieval-0D9488?style=flat-square" />
-<img src="https://img.shields.io/badge/Cross--Encoder%20Reranking-0D9488?style=flat-square" />
-<img src="https://img.shields.io/badge/MMR-0D9488?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </td>
 </tr>
@@ -60,7 +54,8 @@ Currently pursuing my **M.Sc. in Artificial Intelligence at Grenoble INP - Ensim
 <tr>
 <td><b>Databases & Web</b></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </td>
