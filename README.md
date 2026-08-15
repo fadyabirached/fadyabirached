@@ -45,7 +45,7 @@ Currently pursuing my **M.Sc. in Artificial Intelligence at Grenoble INP - Ensim
 <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
