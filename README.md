@@ -90,4 +90,4 @@ Currently pursuing my **M.Sc. in Artificial Intelligence at Grenoble INP - Ensim
 
 <h3>🤝 Let's Connect</h3>
 
-<p align="center"><a href="https://linkedin.com/in/fadyabirached"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;<a href="https://fadyabirached.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:fadyabirached@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p align="center"><a href="https://linkedin.com/in/fadyabirached"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://fadyabirached.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:fadyabirached@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
