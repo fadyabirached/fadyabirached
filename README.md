@@ -39,7 +39,7 @@ Currently pursuing my **M.Sc. in Artificial Intelligence at Grenoble INP - Ensim
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square" />
+<img src="https://img.shields.io/badge/Cohere-39594D?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI%2BPHBhdGggZmlsbD0iIzM1NTE0NiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNi44MiAxMS45MDhjLjUyNSAwIDEuNTctLjAzIDMuMDEzLS42MzkgMS42ODItLjcxIDUuMDI5LTIgNy40NDMtMy4zMjMgMS42ODktLjkyNiAyLjQyOS0yLjE1MSAyLjQyOS0zLjggMC0yLjI5LTEuODEtNC4xNDYtNC4wNDMtNC4xNDZINi4zMDdDMy4xIDAgLjUgMi42NjYuNSA1Ljk1NHMyLjQzNCA1Ljk1NCA2LjMyIDUuOTU0IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjZDE4ZWUyIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjQwMiAxNi4wMWMwLTEuNjExLjk0Ny0zLjA2NCAyLjM5OS0zLjY4MmwyLjk0Ni0xLjI1NGMyLjk4LTEuMjY4IDYuMjYuOTc3IDYuMjYgNC4yODYgMCAyLjU2My0yLjAyNyA0LjY0LTQuNTI3IDQuNjRsLTMuMTktLjAwMmMtMi4xNDcgMC0zLjg4OC0xLjc4NS0zLjg4OC0zLjk4NyIgY2xpcC1ydWxlPSJldmVub2RkIi8%2BPHBhdGggZmlsbD0iI2ZmNzc1OSIgZD0iTTMuODQ4IDEyLjY5MUMxLjk5OCAxMi42OTEuNSAxNC4yMjguNSAxNi4xMjR2LjQ0NEMuNSAxOC40NjQgMS45OTkgMjAgMy44NDggMjBzMy4zNDctMS41MzYgMy4zNDctMy40MzJ2LS40NDRjMC0xLjg5Ni0xLjQ5OS0zLjQzMy0zLjM0Ny0zLjQzMyIvPjwvc3ZnPgo%3D" />
 </td>
 </tr>
 <tr>
